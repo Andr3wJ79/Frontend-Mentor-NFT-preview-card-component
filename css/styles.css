@@ -61,6 +61,7 @@ section {
 }
 a {
   text-decoration: none;
+  color: hsl(178, 100%, 50%);
 }
 a:hover {
   cursor: pointer;
